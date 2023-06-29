@@ -30,7 +30,7 @@ def compare_json(file1, file2):
 
 # 비교할 JSON 파일 경로
 file1 = 'reversed_output1.json'
-file2 = 'reversed_output2.json'
+file2 = 'reversed_output1.json'
 
 # JSON 파일 비교 및 차이점 저장
 compare_json(file1, file2)
